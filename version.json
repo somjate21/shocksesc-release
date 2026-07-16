@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "apk_url": "https://github.com/somjate21/shocksesc-release/releases/download/v1.0.4/ShockSESC.apk",
-  "notes": "- แก้กรอบค้นหาบลูทูธขยับตอนเจออุปกรณ์ใหม่ ทำให้กดผิด\n- กรอบสูงคงที่ รายการเลื่อนดูข้างในเอง เลือกอุปกรณ์แม่นขึ้น"
+  "version": "1.0.5",
+  "apk_url": "https://github.com/somjate21/shocksesc-release/releases/download/v1.0.5/ShockSESC.apk",
+  "notes": "- ล็อกสไลเดอร์ปรับค่าเมื่อกล่องยังไม่ออนไลน์ (กันสั่งไปแล้วไม่มีผล)\n- แสดงเหตุผลที่ปรับไม่ได้ (กล่องไม่พร้อม / ล็อกโดย GPS) ให้ชัด"
 }
