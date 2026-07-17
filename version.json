@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "apk_url": "https://github.com/somjate21/shocksesc-release/releases/download/v1.0.7/ShockSESC.apk",
-  "notes": "- ระบบล็อกอินจริง: สมัคร/เข้าสู่ระบบด้วยอีเมล หรือบัญชี Google\n- ข้อมูลลูกค้า + อุปกรณ์เก็บบนคลาวด์ ผูกกับบัญชี\n- เปลี่ยนมือถือ/ลงแอปใหม่ ล็อกอินก็เจออุปกรณ์เดิม"
+  "version": "1.0.8",
+  "apk_url": "https://github.com/somjate21/shocksesc-release/releases/download/v1.0.8/ShockSESC.apk",
+  "notes": "- หน้าเข้าสู่ระบบดีไซน์ใหม่ (การ์ดโค้งมน) ดูพรีเมียมขึ้น\n- ปุ่มเข้าสู่ระบบด้วย Google ใช้โลโก้ Google จริง"
 }
