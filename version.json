@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
-  "apk_url": "https://github.com/somjate21/shocksesc-release/releases/download/v1.0.10/ShockSESC.apk",
-  "notes": "- แก้แถบแจ้งเตือน \"เปิด Bluetooth\" ค้าง (เชื่อมต่อกล่องแล้วยังขึ้นอยู่)\n- โหมด GPS: ค่าโช้คปรับตามความเร็วแบบเรียลไทม์ ไม่หน่วง (ตอนสลับกลับมา GPS)"
+  "version": "1.0.11",
+  "apk_url": "https://github.com/somjate21/shocksesc-release/releases/download/v1.0.11/ShockSESC.apk",
+  "notes": "- แก้แอปขึ้นซ้ำ 2 อันในหน้าสลับแอป (Recent apps) ให้เหลือตัวเดียว"
 }
