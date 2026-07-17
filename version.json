@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "apk_url": "https://github.com/somjate21/shocksesc-release/releases/download/v1.0.5/ShockSESC.apk",
-  "notes": "- ล็อกสไลเดอร์ปรับค่าเมื่อกล่องยังไม่ออนไลน์ (กันสั่งไปแล้วไม่มีผล)\n- แสดงเหตุผลที่ปรับไม่ได้ (กล่องไม่พร้อม / ล็อกโดย GPS) ให้ชัด"
+  "version": "1.0.6",
+  "apk_url": "https://github.com/somjate21/shocksesc-release/releases/download/v1.0.6/ShockSESC.apk",
+  "notes": "- เพิ่มเมนู \"แชร์แอป (QR ติดตั้ง)\" ในหน้าตั้งค่า\n- ให้เพื่อน/ช่างสแกน QR โหลดแอปได้ทันที + คัดลอกลิงก์ได้"
 }
