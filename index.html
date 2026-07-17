@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ShockSESC — ดาวน์โหลดแอป</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, "Segoe UI", Roboto, "Noto Sans Thai", sans-serif;
+    background: radial-gradient(1200px 600px at 50% -10%, #2a0e12 0%, #0b0d12 55%);
+    color: #eef2f7; min-height: 100vh;
+    display: flex; align-items: center; justify-content: center; padding: 24px;
+  }
+  .card {
+    width: 100%; max-width: 440px;
+    background: linear-gradient(180deg, #171b22, #10131a);
+    border: 1px solid #2a2f3a; border-radius: 24px;
+    padding: 32px 24px; box-shadow: 0 20px 60px rgba(0,0,0,.5);
+  }
+  .brand { text-align: center; }
+  .logo {
+    width: 76px; height: 76px; margin: 0 auto 14px;
+    background: #e02434; border-radius: 20px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 40px; box-shadow: 0 8px 24px rgba(224,36,52,.45);
+  }
+  h1 { font-size: 26px; letter-spacing: .5px; }
+  .sub { color: #9aa4b2; margin-top: 6px; font-size: 15px; }
+  .btn {
+    display: block; text-align: center; text-decoration: none;
+    margin-top: 24px; padding: 16px; border-radius: 16px;
+    background: #e02434; color: #fff; font-size: 18px; font-weight: 700;
+    box-shadow: 0 10px 26px rgba(224,36,52,.4);
+  }
+  .btn:active { transform: translateY(1px); }
+  .os { text-align: center; color: #7f8896; font-size: 12.5px; margin-top: 10px; }
+  .steps { margin-top: 26px; }
+  .steps h2 { font-size: 15px; color: #cbd2db; margin-bottom: 10px; }
+  .step {
+    display: flex; gap: 12px; align-items: flex-start;
+    padding: 10px 0; border-top: 1px solid #232833; font-size: 14.5px; color: #dfe4ec;
+  }
+  .num {
+    flex: none; width: 26px; height: 26px; border-radius: 50%;
+    background: #23272f; color: #ff6b74; font-weight: 700; font-size: 13px;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .note {
+    margin-top: 20px; padding: 12px 14px; border-radius: 12px;
+    background: rgba(255,193,69,.1); border: 1px solid rgba(255,193,69,.3);
+    color: #ffce7a; font-size: 13px; line-height: 1.5;
+  }
+  .foot { text-align: center; color: #6a7482; font-size: 12px; margin-top: 22px; }
+</style>
+</head>
+<body>
+  <div class="card">
+    <div class="brand">
+      <div class="logo">⚡</div>
+      <h1>ShockSESC</h1>
+      <div class="sub">แอปควบคุมโช้คไฟฟ้า Profender</div>
+    </div>
+
+    <a class="btn" href="https://github.com/somjate21/shocksesc-release/releases/latest/download/ShockSESC.apk">
+      ⬇ ดาวน์โหลดแอป (Android)
+    </a>
+    <div class="os">รองรับ Android เท่านั้น · ไฟล์ .apk</div>
+
+    <div class="steps">
+      <h2>วิธีติดตั้ง</h2>
+      <div class="step"><div class="num">1</div><div>กดปุ่ม “ดาวน์โหลดแอป” ด้านบน แล้วรอโหลดไฟล์เสร็จ</div></div>
+      <div class="step"><div class="num">2</div><div>แตะไฟล์ที่โหลด (ShockSESC.apk) เพื่อเริ่มติดตั้ง</div></div>
+      <div class="step"><div class="num">3</div><div>ถ้าเด้งเตือน “ติดตั้งจากแหล่งที่ไม่รู้จัก” ให้กด <b>ตั้งค่า</b> → เปิดสวิตช์ <b>อนุญาตจากแหล่งนี้</b> แล้วย้อนกลับ</div></div>
+      <div class="step"><div class="num">4</div><div>กด <b>ติดตั้ง</b> แล้วเปิดแอป</div></div>
+      <div class="step"><div class="num">5</div><div>ในแอป กด “เชื่อมต่ออุปกรณ์” เลือกกล่องโช้ค (จับคู่ Bluetooth ด้วย PIN 1234 ก่อน)</div></div>
+    </div>
+
+    <div class="note">
+      💡 ครั้งแรกครั้งเดียวเท่านั้นที่ต้องเปิดสิทธิ์ “ติดตั้งจากแหล่งไม่รู้จัก” · อัปเดตครั้งต่อไปแอปจะแจ้งและติดตั้งให้ในแอปเลย
+    </div>
+
+    <div class="foot">© ShockSESC · Profender</div>
+  </div>
+</body>
+</html>
