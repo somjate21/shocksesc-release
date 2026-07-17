@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "apk_url": "https://github.com/somjate21/shocksesc-release/releases/download/v1.0.8/ShockSESC.apk",
-  "notes": "- หน้าเข้าสู่ระบบดีไซน์ใหม่ (การ์ดโค้งมน) ดูพรีเมียมขึ้น\n- ปุ่มเข้าสู่ระบบด้วย Google ใช้โลโก้ Google จริง"
+  "version": "1.0.9",
+  "apk_url": "https://github.com/somjate21/shocksesc-release/releases/download/v1.0.9/ShockSESC.apk",
+  "notes": "- หน้าสมัครสมาชิกดีไซน์ใหม่ เข้าชุดกับหน้าเข้าสู่ระบบ (การ์ดโค้งมน)\n- จัดหน้าเข้าสู่ระบบ/สมัคร ให้อยู่กึ่งกลางพอดีจอ\n- ปุ่มเข้าสู่ระบบด้วย Google ใช้โลโก้ Google จริง\n- ปรับชื่อแบรนด์ในแอปเป็น \"Electric Shock\""
 }
