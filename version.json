@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "apk_url": "https://github.com/somjate21/shocksesc-release/releases/download/v1.0.6/ShockSESC.apk",
-  "notes": "- เพิ่มเมนู \"แชร์แอป (QR ติดตั้ง)\" ในหน้าตั้งค่า\n- ให้เพื่อน/ช่างสแกน QR โหลดแอปได้ทันที + คัดลอกลิงก์ได้"
+  "version": "1.0.7",
+  "apk_url": "https://github.com/somjate21/shocksesc-release/releases/download/v1.0.7/ShockSESC.apk",
+  "notes": "- สไลเดอร์ปรับความหนืดใหม่ กดง่ายขึ้น (ปุ่ม −/+ ปรับทีละเบอร์ หรือลากได้)\n- หน้า \"ตรวจหาอัปเดต\" ในตั้งค่า แสดงรายละเอียดว่าเวอร์ชันใหม่มีอะไรเพิ่ม"
 }
