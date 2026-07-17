@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
-  "apk_url": "https://github.com/somjate21/shocksesc-release/releases/download/v1.0.9/ShockSESC.apk",
-  "notes": "- หน้าสมัครสมาชิกดีไซน์ใหม่ เข้าชุดกับหน้าเข้าสู่ระบบ (การ์ดโค้งมน)\n- จัดหน้าเข้าสู่ระบบ/สมัคร ให้อยู่กึ่งกลางพอดีจอ\n- ปุ่มเข้าสู่ระบบด้วย Google ใช้โลโก้ Google จริง\n- ปรับชื่อแบรนด์ในแอปเป็น \"Electric Shock\""
+  "version": "1.0.10",
+  "apk_url": "https://github.com/somjate21/shocksesc-release/releases/download/v1.0.10/ShockSESC.apk",
+  "notes": "- แก้แถบแจ้งเตือน \"เปิด Bluetooth\" ค้าง (เชื่อมต่อกล่องแล้วยังขึ้นอยู่)\n- โหมด GPS: ค่าโช้คปรับตามความเร็วแบบเรียลไทม์ ไม่หน่วง (ตอนสลับกลับมา GPS)"
 }
